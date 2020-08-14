@@ -1,4 +1,4 @@
-package sujith.quizmaster.controller;
+package sujith.quizmaster.entity;
 
 import lombok.Data;
 

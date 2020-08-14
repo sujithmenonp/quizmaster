@@ -1,11 +1,10 @@
-package sujith.quizmaster.controller;
+package sujith.quizmaster.entity;
 
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
+import sujith.quizmaster.entity.ChoiceEntity;
 
 import javax.persistence.*;
-import java.awt.*;
 import java.util.Set;
 import java.util.UUID;
 

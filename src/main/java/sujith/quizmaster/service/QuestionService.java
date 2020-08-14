@@ -1,7 +1,10 @@
-package sujith.quizmaster.controller;
+package sujith.quizmaster.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import sujith.quizmaster.repository.QuestionRepository;
+import sujith.quizmaster.entity.ChoiceEntity;
+import sujith.quizmaster.entity.QuestionEntity;
 
 import java.util.HashSet;
 import java.util.Set;
